@@ -812,6 +812,11 @@ features
 parallax & home seperator
 --------------------------------------------- 
 */
+
+.process-img {
+  background-image: url(../images/capture1.png);
+}
+
 .mini {
   min-height: 215px;
   overflow: hidden;
@@ -829,7 +834,6 @@ parallax & home seperator
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
-  background-color: #fff;
   z-index: 2;
   top: -20%;
   left: -20%;
