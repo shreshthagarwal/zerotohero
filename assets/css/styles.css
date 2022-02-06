@@ -829,7 +829,7 @@ parallax & home seperator
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
-  background-image: url(../images/capture1.png);
+  background-color: #fff;
   z-index: 2;
   top: -20%;
   left: -20%;
