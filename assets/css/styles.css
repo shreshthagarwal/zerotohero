@@ -586,15 +586,6 @@ header
   .header-area .main-nav:before {
     display: none;
   }
-  h1.power{
-    font-size: 7vw;
-    font-weight: 400;
-  }
-  
-  p.power{
-    font-size: 3.25vw;
-    font-weight: 100;
-  }
 }
 
 @media (max-width: 991px) {
@@ -663,15 +654,6 @@ header
 @media (min-width: 992px) {
   .header-area .main-nav .nav {
     display: flex !important;
-  }
-  h1.power{
-    font-size: 7vw;
-    font-weight: 400;
-  }
-  
-  p.power{
-    font-size: 3.25vw;
-    font-weight: 100;
   }
 }
 
