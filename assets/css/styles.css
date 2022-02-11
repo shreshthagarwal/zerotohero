@@ -68,6 +68,45 @@ ul {
   margin-bottom: 0px;
 }
 
+.quote{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #C6A064;
+  width: auto;
+  margin: 40px 20px 0px 20px;
+  height: auto;
+}
+
+h1.power{
+  padding: 50px;
+  width: 100%;
+  font-size: 4vw;
+  font-weight: 400;
+  line-height: 50px;
+  letter-spacing: 2.5px;
+  text-transform: uppercase;
+  text-align: center; 
+  color: #fff;
+}
+
+p.power{
+  padding: 50px;
+  width: 100%;
+  font-size: 1.25vw;
+  font-weight: 100;
+  line-height: 25px;
+  letter-spacing: 2.5px;
+  text-align: center; 
+  color: #fff;
+}
+
+
+
+
+
+
+
 /* 
 ---------------------------------------------
 global styles
