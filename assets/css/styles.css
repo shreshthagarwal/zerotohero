@@ -79,7 +79,7 @@ ul {
 }
 
 h1.power{
-  padding: 50px;
+  padding: 20px;
   width: 100%;
   font-size: 4vw;
   font-weight: 400;
@@ -91,7 +91,7 @@ h1.power{
 }
 
 p.power{
-  padding: 50px;
+  padding: 50px 20px 20px 20px;
   width: 100%;
   font-size: 1.25vw;
   font-weight: 100;
@@ -100,11 +100,6 @@ p.power{
   text-align: center; 
   color: #fff;
 }
-
-
-
-
-
 
 
 /* 
@@ -313,6 +308,15 @@ body {
   }
   .mobile-bottom-fix-big {
     margin-bottom: 60px;
+  }
+  h1.power{
+    font-size: 7vw;
+    font-weight: 400;
+  }
+  
+  p.power{
+    font-size: 3.25vw;
+    font-weight: 100;
   }
 }
 
@@ -581,6 +585,15 @@ header
   }
   .header-area .main-nav:before {
     display: none;
+  }
+  h1.power{
+    font-size: 7vw;
+    font-weight: 400;
+  }
+  
+  p.power{
+    font-size: 3.25vw;
+    font-weight: 100;
   }
 }
 
